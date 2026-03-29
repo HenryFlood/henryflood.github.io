@@ -1,1 +1,1 @@
-window.href="https://github.com/HenryFlood"; /* Simple redirect for now */
+window.open("https://github.com/HenryFlood", "_parent"); /* Simple redirect for now */
